@@ -1,0 +1,170 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerWorkspaceConfiguration">
+        <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+      </component>
+      <component name="EclipseCodeFormatter">
+        <option name="defaultSettings" value="true" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1469563696439" />
+        <option name="name" value="default" />
+        <option name="optimizeImports" value="false" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/source/HASE/src/main/resources/java/ide/intellij/HAIntelliJJavaFormatter.xml" />
+        <option name="selectedJavaProfile" value="HAIntelliJJavaFormatter" />
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Performance</id>
+              </State>
+              <State>
+                <id>CorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>GSPGrailsGroovy</id>
+              </State>
+              <State>
+                <id>General</id>
+              </State>
+              <State>
+                <id>GrailsGroovy</id>
+              </State>
+              <State>
+                <id>Groovy</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>Maven</id>
+              </State>
+              <State>
+                <id>Plugin DevKit</id>
+              </State>
+              <State>
+                <id>XPath</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" />
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="$USER_HOME$/source/HASE/src/main/resources/java/ide/intellij/HAIntelliJJavaFormatter.xml" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Libraries" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/source/ae-eagle-clickstream" value="PREVIEW" />
+            <entry key="$USER_HOME$/source/ha-scala-commons" value="PREVIEW" />
+            <entry key="$USER_HOME$/source/ha-scala-domain" value="PREVIEW" />
+            <entry key="$USER_HOME$/source/ha-scala-spark" value="PREVIEW" />
+            <entry key="$USER_HOME$/source/sbt-ha-docker-app-plugin" value="PREVIEW" />
+            <entry key="$USER_HOME$/source/sbt-ha-scala-build" value="PREVIEW" />
+            <entry key="$USER_HOME$/source/scala-jar-test" value="PREVIEW" />
+            <entry key="$USER_HOME$/source/scala-sbt-app-test" value="PREVIEW" />
+            <entry key="$USER_HOME$/source/scala-streaming-test" value="PREVIEW" />
+            <entry key="$USER_HOME$/source/scala-webapp-test" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

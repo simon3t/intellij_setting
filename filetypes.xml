@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern=".helmignore" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping ext="properties_backup" type="PLAIN_TEXT" />
+      <mapping pattern="search" type="Scala" />
+    </extensionMap>
+  </component>
+</application>
